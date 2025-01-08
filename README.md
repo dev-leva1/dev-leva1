@@ -16,5 +16,5 @@
 
 ## 📬 Свяжись со мной:
 
-- **Telegram**: [@devleva](https://t.me/levlimansky)
-- **Email**: [devleva@example.com](mailto:filippon213@gmail.com)
+- **Telegram**: [@levlimansky](https://t.me/levlimansky)
+- **Email**: [filippon213@gmail.com](mailto:filippon213@gmail.com)
