@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="248" viewBox="0 0 1120 248" role="img" aria-labelledby="title desc">
+  <title id="title">Leva — software engineer</title>
+  <desc id="desc">Minimal personal header for GitHub, featuring the name Leva and the specialization Software engineer.</desc>
+  <rect width="1120" height="248" fill="#0d1117"/>
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
+    <text x="48" y="132" font-size="94" font-weight="650" letter-spacing="-4" fill="#f0f6fc">Leva<tspan fill="#58a6ff">.</tspan></text>
+    <text x="53" y="190" font-size="26" font-weight="400" fill="#8b949e">Software engineer</text>
+    <text x="1072" y="190" text-anchor="end" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Monaco, Consolas, monospace" font-size="20" fill="#8b949e">@dev-leva1</text>
+  </g>
+  <line x1="48" y1="224" x2="1072" y2="224" stroke="#30363d" stroke-width="1"/>
+</svg>
