@@ -5,17 +5,23 @@
 </picture>
 
 I build software with a focus on **backend architecture**, **game systems**, and **developer tools**.
+<div align="center">
+  
+<a href="https://t.me/levlimansky"><img src="https://img.shields.io/badge/Telegram-Contact-8B5CF6?style=flat-square&amp;logo=telegram&amp;logoColor=white" alt="Telegram" /></a>
+<a href="mailto:filippon213@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hello-242938?style=flat-square&amp;logo=gmail&amp;logoColor=white" alt="Email" /></a>
+<a href="https://github.com/dev-leva1?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Projects-242938?style=flat-square&amp;logo=github&amp;logoColor=white" alt="GitHub repositories" />
 
-[Telegram](https://t.me/levlimansky) · [Email](mailto:filippon213@gmail.com) · [All repositories](https://github.com/dev-leva1?tab=repositories)
+</div>
+</a>
 
 ### Featured work
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <strong><a href="https://github.com/dev-leva1/solo-leveling-bot">Solo Rank</a></strong>
-      <p>Telegram RPG with dungeons, raids, crafting, PvP, and a player-driven economy.</p>
-      <sub>Python · Go · PostgreSQL · Redis · Next.js</sub>
+      <strong><a href="https://github.com/dev-leva1/animeportal">Anime Portal</a></strong>
+      <p>A modern web application for exploring anime and manga, built with React, TypeScript, and Vite.</p>
+      <sub>TypeSctipt · Vite · Jikan API</sub>
     </td>
     <td width="50%" valign="top">
       <strong><a href="https://github.com/dev-leva1/altv-dev-tools">alt:V Developer Tools</a></strong>
@@ -27,13 +33,11 @@ I build software with a focus on **backend architecture**, **game systems**, and
 
 ### Technology
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py,go,ts,js,react,nextjs,postgres,redis,docker,nginx,git,githubactions&amp;theme=dark&amp;perline=12">
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=py,go,ts,js,react,nextjs,postgres,redis,docker,nginx,git,githubactions&amp;theme=light&amp;perline=12">
-    <img src="https://skillicons.dev/icons?i=py,go,ts,js,react,nextjs,postgres,redis,docker,nginx,git,githubactions&amp;theme=light&amp;perline=12" alt="Python, Go, TypeScript, JavaScript, React, Next.js, PostgreSQL, Redis, Docker, Nginx, Git, GitHub Actions" width="680">
-  </picture>
-</p>
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=py,go,ts,js,react,nextjs,postgres,redis,docker,nginx,git,githubactions&amp;theme=dark&amp;perline=12" alt="Python, Go, TypeScript, JavaScript, React, Next.js, PostgreSQL, Redis, Docker, Nginx, Git, GitHub Actions" />
+
+</div>
 
 ### GitHub activity
 
@@ -55,5 +59,3 @@ I build software with a focus on **backend architecture**, **game systems**, and
     </td>
   </tr>
 </table>
-
-<sub>Live activity statistics are provided by [GHStats](https://ghstats.dev/) and may exclude private repository data. GitHub's native contribution graph remains available below.</sub>
