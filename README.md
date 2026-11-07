@@ -3,9 +3,10 @@
   <source media="(prefers-color-scheme: light)" srcset="./assets/banner-light.svg">
   <img src="./assets/banner-light.svg" alt="Leva — software engineer" width="100%">
 </picture>
-
-I build software with a focus on **backend architecture**, **game systems**, and **developer tools**.
 <div align="center">
+  
+I build software with a focus on **backend architecture**, **game systems**, and **developer tools**.
+
   
 <a href="https://t.me/levlimansky"><img src="https://img.shields.io/badge/Telegram-Contact-8B5CF6?style=flat-square&amp;logo=telegram&amp;logoColor=white" alt="Telegram" /></a>
 <a href="mailto:filippon213@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hello-242938?style=flat-square&amp;logo=gmail&amp;logoColor=white" alt="Email" /></a>
